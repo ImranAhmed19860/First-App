@@ -37,6 +37,11 @@ a:hover{
 background-image: url(./Assets/Hero-image-02.png);
 height: 100%;
 background-size: cover;
+
+
+
+/* position: top right left; */
+
 }
 
 .gallery-sec{
