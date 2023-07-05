@@ -6,12 +6,16 @@
 body{
     width: 100%;
     height: 100vh;
+    style-upper
 
 }
 h1,p{
-    color: brown;
-    text-align: center;
-    border: 1px solid green;
+    /* color: brown; */
+    /* text-align: center; */
+    /* border: 1px solid green; */
+    font-weight:bold;
+
+    
 }
 /* .nav{
     display: flex;
@@ -31,6 +35,8 @@ a{
 a:hover{
     /* background-color: black; */
     text-decoration: underline;
+    background-color: lightblue;
+
 }
 .hero-main{
 /* background-image: url(./Assets/ian-schneider-TamMbr4okv4-unsplash.jpg); */
